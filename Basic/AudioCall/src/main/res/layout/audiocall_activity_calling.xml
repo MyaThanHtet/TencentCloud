@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:id="@+id/main_content_relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_list">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+       <!-- <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:background="@mipmap/common_ic_back" />-->
+
+        <TextView
+            android:id="@+id/tv_room_number"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal"
+            android:text="1111"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="100dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_user1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user1"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_user2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user2"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_user3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user3"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="180dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_user4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user4"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_user5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user5"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_user6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user6"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="260dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_user7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user7"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_user8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user8"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_user9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/iv_user9"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@mipmap/common_user_portrait" />
+
+            <TextView
+                android:id="@+id/tv_user9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </LinearLayout>
+    <!-- <LinearLayout
+         android:layout_width="200dp"
+         android:layout_height="300dp"
+         android:layout_marginLeft="25dp"
+         android:layout_marginTop="250dp"
+         android:background="@drawable/audiocall_info_bg"
+         android:orientation="vertical"
+         android:padding="5dp">
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/audiocall_info_view"
+             android:textColor="#6dd400"
+             android:textSize="18sp" />
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/audiocall_voice_info"
+             android:textColor="#6dd400"
+             android:textSize="16sp" />
+
+         <TextView
+             android:id="@+id/tv_voice1"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_voice2"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_voice3"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_voice4"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_voice5"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_voice6"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="5dp"
+             android:text="@string/audiocall_net_info"
+             android:textColor="#6dd400"
+             android:textSize="16sp" />
+
+         <TextView
+             android:id="@+id/tv_network1"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_network2"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_network3"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_network4"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_network5"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+
+         <TextView
+             android:id="@+id/tv_network6"
+             android:layout_width="wrap_content"
+             android:layout_height="12dp"
+             android:textColor="#6dd400"
+             android:textSize="10sp"
+             android:visibility="gone" />
+     </LinearLayout>-->
+
+
+    <LinearLayout
+        android:id="@+id/ll_controller"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="20dp"
+        android:visibility="visible">
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/btn_audio_route"
+            style="@style/TRTCVoiceRoomButtonStyle"
+            android:layout_marginStart="20dp"
+            android:background="@drawable/audiocalling_bg_handsfree" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/btn_mute_audio"
+            style="@style/TRTCVoiceRoomButtonStyle"
+            android:layout_marginStart="50dp"
+            android:background="@drawable/audiocalling_bg_mute" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/btn_hangup"
+            style="@style/TRTCVoiceRoomButtonStyle"
+            android:layout_marginStart="50dp"
+            android:background="@drawable/audiocalling_bg_hungup" />
+
+    </LinearLayout>
+</RelativeLayout>

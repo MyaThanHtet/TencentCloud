@@ -1,0 +1,48 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.2"
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    //implementation project(':beautysettingkit')
+    implementation project(':Debug')
+    implementation project(':login')
+    implementation 'com.blankj:utilcode:1.25.9'
+    implementation 'me.dm7.barcodescanner:zxing:1.8.4'
+    //快速集成圆形image view
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation "androidx.recyclerview:recyclerview:1.2.1"
+    implementation 'com.android.support.constraint:constraint-layout:2.0.4'
+    implementation project(path: ':Debug')
+    implementation project(path: ':Common')
+    implementation project(path: ':beautysettingkit')
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'com.tencent.liteav:LiteAVSDK_TRTC:9.0.10438'
+    implementation 'com.tencent.imsdk:imsdk:4.9.1'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+}

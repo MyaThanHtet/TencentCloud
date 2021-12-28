@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/audiocall_info_bg.xml" value="0.18518518518518517" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/audiocall_main_bg.xml" value="0.18518518518518517" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/audiocall_room_id_bg.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/audiocalling_bg_handsfree.xml" value="0.12" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/audiocalling_bg_hungup.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/audiocalling_bg_mute.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/gradient_list.xml" value="0.1882051282051282" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/gradient_one.xml" value="0.1882051282051282" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/gradient_three.xml" value="0.1882051282051282" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/gradient_two.xml" value="0.1882051282051282" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/drawable/videocalling_bg_switch_camera.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/layout/audiocall_activity_calling.xml" value="0.15092592592592594" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/AudioCall/src/main/res/layout/audiocall_activity_enter.xml" value="0.16" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/drawable/videocall_main_background.xml" value="0.1882051282051282" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/drawable/videocall_room_id_bg.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/drawable/videocalling_bg_handsfree.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/drawable/videocalling_bg_hungup.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/drawable/videocalling_bg_mute.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/drawable/videocalling_bg_mute_video.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/drawable/videocalling_bg_switch_camera.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/layout/videocall_activit_enter.xml" value="0.15" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Basic/VideoCall/src/main/res/layout/videocall_activity_calling.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/Common/src/main/res/drawable/common_button_bg.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/ScreenShare/src/main/res/layout/screenshare_activity_audience.xml" value="0.17037037037037037" />
+        <entry key="..\:/AndroidProjects/TencentCloud/ScreenShare/src/main/res/layout/screenshare_popup_layout.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/ScreenShare/src/main/res/layout/screenshare_window_floating.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/TencentCloud/app/src/main/res/layout/google_signin_layout.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/app/src/main/res/layout/layout_profile.xml" value="0.14" />
+        <entry key="..\:/AndroidProjects/TencentCloud/app/src/main/res/layout/main_login_layout.xml" value="0.14" />
+        <entry key="..\:/AndroidProjects/TencentCloud/audioeffectsettingkit/src/main/res/layout/audio_effect_panel.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidProjects/TencentCloud/login/src/main/res/drawable/login_bg_main_gradient.xml" value="0.14907407407407408" />
+        <entry key="..\:/AndroidProjects/TencentCloud/login/src/main/res/layout/login_activity_login.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/TencentCloud/login/src/main/res/layout/login_item_avatar_layout.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/connors.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.14907407407407408" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/ic_baseline_open_in_new_24.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/ic_home.xml" value="0.16111111111111112" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/trtccalling_bg_button_border.xml" value="0.18518518518518517" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/trtccalling_bg_handsfree.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/trtccalling_bg_hangup.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/trtccalling_bg_main_gradient.xml" value="0.18518518518518517" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/trtccalling_bg_mute_mic.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/trtccalling_search_btn_bg.xml" value="0.18518518518518517" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/drawable/trtccalling_wait_background.xml" value="0.18518518518518517" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/audio_call_window_floating.xml" value="0.5" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/float_service_layout.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/screenshare_popup_layout.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/trtccalling_activity_search_user_entrance.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/trtccalling_audiocall_activity_call_main.xml" value="0.18" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/trtccalling_audiocall_item_user_layout.xml" value="0.17" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/trtccalling_videocall_activity_call_main.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/trtccalling_videocall_item_user_layout.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/video_popup_layout.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtccallingdemo/src/main/res/layout/video_window_floating.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/drawable/bg_meeting_head_gradient.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/drawable/meeting_button_border.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/activity_create_meeting.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/activity_meeting_main.xml" value="0.16" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/item_meeting_member.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/item_meeting_remote_user_list.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/meeting_fragment_base_tab_setting.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/meeting_fragment_common_setting.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/meeting_fragment_share_setting.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/meeting_screen_capture_floating_window.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtc_item_setting_custom.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtc_item_setting_edittext.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtc_item_setting_radio.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtc_item_setting_radio_button.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtc_item_setting_seekbar.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtc_item_setting_selection.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtc_item_setting_selection_textview.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtc_item_setting_switch.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/trtcmeeting_dialog_confirm.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/view_meeting_head_bar.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/view_meeting_remote_user_list.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcmeetingdemo/src/main/res/layout/viewstub_remote_user_list.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable-xxhdpi/trtcvoiceroom_bg_talk.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable/trtcvoiceroom_bg_confirm_dialog.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable/trtcvoiceroom_bg_create_room_btn.xml" value="0.18645833333333334" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable/trtcvoiceroom_bg_dialog.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable/trtcvoiceroom_bg_et_room_theme.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable/trtcvoiceroom_bg_msg_send.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable/trtcvoiceroom_button_border.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable/trtcvoiceroom_button_mic.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/drawable/trtcvoiceroom_button_msg.xml" value="0.7645833333333333" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_activity_create_voice_room.xml" value="0.18" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_activity_room_list.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_audio_bgm_entry_item.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_audio_effect_panel.xml" value="0.15462962962962962" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_audio_main_entry_item.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_dialog_confirm.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_dialog_create_voice_room.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_dialog_input_text.xml" value="0.18" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_dialog_more_action.xml" value="0.18" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_fragment_room_list.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_item_audience.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_item_msg.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_item_room_list.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_item_seat_layout.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_item_select.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_view_bottom_dialog.xml" value="0.175" />
+        <entry key="..\:/AndroidProjects/TencentCloud/trtcvoiceroomdemo/src/main/res/layout/trtcvoiceroom_view_select.xml" value="0.175" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

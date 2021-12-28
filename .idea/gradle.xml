@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8 (2)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Basic" />
+            <option value="$PROJECT_DIR$/Basic/AudioCall" />
+            <option value="$PROJECT_DIR$/Basic/VideoCall" />
+            <option value="$PROJECT_DIR$/Common" />
+            <option value="$PROJECT_DIR$/Debug" />
+            <option value="$PROJECT_DIR$/ScreenShare" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/audioeffectsettingkit" />
+            <option value="$PROJECT_DIR$/beautysettingkit" />
+            <option value="$PROJECT_DIR$/login" />
+            <option value="$PROJECT_DIR$/trtccallingdemo" />
+            <option value="$PROJECT_DIR$/trtcmeetingdemo" />
+            <option value="$PROJECT_DIR$/trtcvoiceroomdemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

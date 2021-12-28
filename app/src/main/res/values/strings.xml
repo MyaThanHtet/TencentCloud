@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">TencentCloud</string>
+    <string name="facebook_app_id" translatable="false">605379263781015</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb605379263781015</string>
+</resources>

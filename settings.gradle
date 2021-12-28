@@ -1,0 +1,13 @@
+include ':audioeffectsettingkit'
+include ':login'
+include ':trtcvoiceroomdemo'
+include ':Basic:VideoCall'
+include ':ScreenShare'
+include ':Basic:AudioCall'
+include ':Debug'
+include ':Common'
+include ':app'
+rootProject.name = "TencentCloud"
+include ':trtccallingdemo'
+include ':trtcmeetingdemo'
+include ':beautysettingkit'
